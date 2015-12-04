@@ -1,1 +1,3 @@
 This is for initial commit
+This is first test commit.
+this is ammend commit.
