@@ -1,2 +1,7 @@
 This is for initial commit
+
 This line is edited in github.
+
+This is first test commit.
+this is amend commit.
+
